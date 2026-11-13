@@ -44,13 +44,18 @@ A Flutter and Firebase-based platform designed to connect sports coaches and stu
 
 **Status:** In development
 
-### 🔎 Sports Scouting Platform
+### 🔎 [AI Scouting Platform](https://github.com/sinjunha513-cloud/AI-Scouting-Platform)
 
-A Streamlit-based sports scouting platform for exploring player data and supporting scouting analysis through an interactive interface.
+An interactive Streamlit app for football player scouting, comparison, and statistical exploration.
 
-**Tools:** Python, Streamlit
+- Season- and position-specific Z-score evaluation with configurable metric weights
+- K-Means player clustering and cosine-similarity-based alternative player recommendations
+- Radar charts, player comparisons, and multi-season performance trends
+- CSV/Excel uploads and reproducible fictional demo data
 
-**Status:** Project repository link and detailed features to be added
+**Tools:** Python, Streamlit, Pandas, NumPy, scikit-learn, Plotly
+
+**Status:** Source code published; live deployment not yet verified
 
 ## 📚 Currently Learning
 
