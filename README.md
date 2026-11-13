@@ -18,7 +18,11 @@ I'm studying Sports Health & Rehabilitation and building reproducible data-scien
 **Programming:** Python  
 **Data analysis:** Pandas, NumPy  
 **Visualization:** Matplotlib, Plotly, Streamlit  
-**Workflow:** Jupyter Notebook, VS Code, Gi### ⚽ [K League 1 — High Turnover & Attacking Transition Analysis](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis)
+**Workflow:** Jupyter Notebook, VS Code, GitHub
+
+## 📊 Featured Projects
+
+### ⚽ [K League 1 — High Turnover & Attacking Transition Analysis](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis)
 
 An event-based analysis of attacking transitions following high turnovers in the 2024 K League 1 season.
 
