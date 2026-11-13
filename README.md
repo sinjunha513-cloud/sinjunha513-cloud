@@ -1,8 +1,10 @@
 # Hi, I'm Junha Shin 👋
 
-**Aspiring Data Scientist | Sports Analytics & Machine Learning**
+**Undergraduate Student | Sports Analytics & Machine Learning**
 
-I'm an undergraduate student majoring in Sports Health & Rehabilitation. I am building my skills in Python, statistics, and machine learning, with an interest in applying data science to sports and other real-world problems.
+I'm studying Sports Health & Rehabilitation and building reproducible data-science projects in sports analytics and machine learning.
+
+**Research interests:** temporal modeling, data quality, and rigorous evaluation of prediction and recommendation systems.
 
 ## 🔍 Interests
 
@@ -16,11 +18,7 @@ I'm an undergraduate student majoring in Sports Health & Rehabilitation. I am bu
 **Programming:** Python  
 **Data analysis:** Pandas, NumPy  
 **Visualization:** Matplotlib, Plotly, Streamlit  
-**Workflow:** Jupyter Notebook, VS Code, GitHub
-
-## 📊 Featured Projects
-
-### ⚽ [K League 1 — High Turnover & Attacking Transition Analysis](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis)
+**Workflow:** Jupyter Notebook, VS Code, Gi### ⚽ [K League 1 — High Turnover & Attacking Transition Analysis](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis)
 
 An event-based analysis of attacking transitions following high turnovers in the 2024 K League 1 season.
 
@@ -30,19 +28,6 @@ An event-based analysis of attacking transitions following high turnovers in the
 - Documented how methodological decisions affect the interpretation of results
 
 **Tools:** Python, Pandas, Jupyter Notebook
-
-### 🎯 ONEPOINT — Sports Lesson Platform
-
-A Flutter and Firebase-based platform designed to connect sports coaches and students for one-on-one lessons.
-
-- Coach profiles and lesson registration
-- Lesson applications and scheduling workflows
-- User roles for students, coaches, and administrators
-- In-app messaging and platform management features
-
-**Tools:** Flutter, Dart, Firebase (Authentication, Firestore, Storage, Messaging)
-
-**Status:** In development
 
 ### 🔎 [AI Scouting Platform](https://github.com/sinjunha513-cloud/AI-Scouting-Platform)
 
@@ -57,6 +42,19 @@ An interactive Streamlit app for football player scouting, comparison, and stati
 
 **Live app:** [Try the AI Scouting Platform](https://junha-ai-scouting.streamlit.app/)  
 **Source code:** [GitHub repository](https://github.com/sinjunha513-cloud/AI-Scouting-Platform)
+
+### 🎯 ONEPOINT — Sports Lesson Platform
+
+A Flutter and Firebase-based platform designed to connect sports coaches and students for one-on-one lessons.
+
+- Coach profiles and lesson registration
+- Lesson applications and scheduling workflows
+- User roles for students, coaches, and administrators
+- In-app messaging and platform management features
+
+**Tools:** Flutter, Dart, Firebase (Authentication, Firestore, Storage, Messaging)
+
+**Status:** In development
 
 ## 📚 Currently Learning
 
