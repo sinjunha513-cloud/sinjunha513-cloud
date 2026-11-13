@@ -18,7 +18,7 @@ I'm an undergraduate student majoring in Sports Health & Rehabilitation. I am bu
 **Visualization:** Matplotlib, Plotly, Streamlit  
 **Workflow:** Jupyter Notebook, VS Code, GitHub
 
-## 📊 Featured Project
+## 📊 Featured Projects
 
 ### ⚽ [K League 1 — High Turnover & Attacking Transition Analysis](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis)
 
@@ -31,11 +31,24 @@ An event-based analysis of attacking transitions following high turnovers in the
 
 **Tools:** Python, Pandas, Jupyter Notebook
 
-## 🏈 Ongoing Exploration
+### 🎯 ONEPOINT — Sports Lesson Platform
 
-**NFL Big Data Bowl 2027 — Player Tracking Analysis**
+A Flutter and Firebase-based platform designed to connect sports coaches and students for one-on-one lessons.
 
-Exploring how movement metrics from the NFL Scouting Combine relate to player tracking data from regular-season games. Project work is ongoing; a public repository will be linked when available.
+- Coach profiles and lesson registration
+- Lesson applications and scheduling workflows
+- User roles for students, coaches, and administrators
+- In-app messaging and platform management features
+
+**Tools:** Flutter, Dart, Firebase (Authentication, Firestore, Storage, Messaging)
+
+**Status:** In development
+
+### 🔎 Sports Scouting Platform
+
+A sports scouting platform project focused on organizing and presenting information to support player evaluation and scouting workflows.
+
+**Status:** Project details and public repository link to be added
 
 ## 📚 Currently Learning
 
