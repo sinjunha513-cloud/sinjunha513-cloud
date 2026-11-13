@@ -1,4 +1,4 @@
-# Hi, I'm Junha Shin 👋
+# Hi, I'm Junha Shin
 
 **Undergraduate Student | Sports Analytics & Machine Learning**
 
