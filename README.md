@@ -55,7 +55,8 @@ An interactive Streamlit app for football player scouting, comparison, and stati
 
 **Tools:** Python, Streamlit, Pandas, NumPy, scikit-learn, Plotly
 
-**Status:** Source code published; live deployment not yet verified
+**Live app:** [Try the AI Scouting Platform](https://junha-ai-scouting.streamlit.app/)  
+**Source code:** [GitHub repository](https://github.com/sinjunha513-cloud/AI-Scouting-Platform)
 
 ## 📚 Currently Learning
 
