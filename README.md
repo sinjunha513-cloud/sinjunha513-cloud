@@ -46,9 +46,11 @@ A Flutter and Firebase-based platform designed to connect sports coaches and stu
 
 ### 🔎 Sports Scouting Platform
 
-A sports scouting platform project focused on organizing and presenting information to support player evaluation and scouting workflows.
+A Streamlit-based sports scouting platform for exploring player data and supporting scouting analysis through an interactive interface.
 
-**Status:** Project details and public repository link to be added
+**Tools:** Python, Streamlit
+
+**Status:** Project repository link and detailed features to be added
 
 ## 📚 Currently Learning
 
