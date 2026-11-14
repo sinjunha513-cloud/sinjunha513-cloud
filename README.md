@@ -4,7 +4,7 @@
 
 I'm studying Sports Health & Rehabilitation and building reproducible data-science projects in sports analytics and machine learning.
 
-**Research interests:** temporal modeling, data quality, and rigorous evaluation of prediction and recommendation systems.
+**Research interests:** video-based player tracking, spatiotemporal representation learning, and multi-agent motion prediction. I would like to learn models of football dynamics from video-derived movement data and eventually explore action-conditioned simulation. These are future research interests; my completed work below focuses on event-based analysis, statistical scouting, and application development.
 
 ## 🔍 Interests
 
@@ -26,23 +26,27 @@ I'm studying Sports Health & Rehabilitation and building reproducible data-scien
 
 An event-based analysis of attacking transitions following high turnovers in the 2024 K League 1 season.
 
-- Studied event data covering **198 matches** and **12 teams**
+- **Independent project, 2 months:** analyzed event data covering **198 matches** and **12 teams**
 - Developed logic to distinguish event-team changes from meaningful possession changes
 - Examined shots and goals linked to high turnovers within a **15-second window**
-- Documented how methodological decisions affect the interpretation of results
+- Identified **5,303 high-turnover sequences**, with **1,204 (22.7%)** linked to a shot within 15 seconds under the final rules
+- Reported descriptive associations, with limitations of event-based possession inference
 
 **Tools:** Python, Pandas, Jupyter Notebook
 
-**Final report:** [Download the illustrated K League analysis report](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis/blob/main/reports/K%EB%A6%AC%EA%B7%B81_%EC%A0%84%EB%B0%A9%ED%83%88%EC%B7%A8_%EB%B6%84%EC%84%9D_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%99%84%EC%84%B1%EB%B3%B8.docx)
+**Final report:** [Read the illustrated PDF report](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis/blob/main/reports/K_League_High_Turnover_Report.pdf)
 
 ### 🔎 [AI Scouting Platform](https://github.com/sinjunha513-cloud/AI-Scouting-Platform)
 
 An interactive Streamlit app for football player scouting, comparison, and statistical exploration.
 
+**My contribution:** platform development and scoring, clustering, and recommendation implementation in a **three-person team over 3 months**.
+
 - Season- and position-specific Z-score evaluation with configurable metric weights
 - K-Means player clustering and cosine-similarity-based alternative player recommendations
 - Radar charts, player comparisons, and multi-season performance trends
-- CSV/Excel uploads and reproducible fictional demo data
+- Per-90 count handling, missing-data coverage indicators, and reproducible fictional demo data
+- Relative statistical comparisons; real-world scouting accuracy has not been evaluated
 
 **Tools:** Python, Streamlit, Pandas, NumPy, scikit-learn, Plotly
 
@@ -52,6 +56,8 @@ An interactive Streamlit app for football player scouting, comparison, and stati
 ### 🎯 ONEPOINT — Sports Lesson Platform
 
 A Flutter and Firebase-based platform designed to connect sports coaches and students for one-on-one lessons.
+
+**My contribution:** independent application and backend development over **6 months**.
 
 - Coach profiles and lesson registration
 - Lesson applications and scheduling workflows
