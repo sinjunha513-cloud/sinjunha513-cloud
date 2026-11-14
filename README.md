@@ -1,88 +1,65 @@
-# Hi, I'm Junha Shin
+# Junha Shin
 
-**Undergraduate Student | Sports Analytics & Machine Learning**
+**Undergraduate at Kookmin University | Sports analytics and movement understanding**
 
-I'm studying Sports Health & Rehabilitation and building reproducible data-science projects in sports analytics and machine learning.
+I study Sports Health and Rehabilitation and use sports projects to explore data analysis and application development. My long-term interest is understanding player movement from football video and learning how game situations evolve.
 
-**Research interests:** video-based player tracking, spatiotemporal representation learning, and multi-agent motion prediction. I would like to learn models of football dynamics from video-derived movement data and eventually explore action-conditioned simulation. These are future research interests; my completed work below focuses on event-based analysis, statistical scouting, and application development.
+## Research interests
 
-## 🔍 Interests
+Access to tracking data for the leagues and matches I want to study has been a practical constraint. I would like to learn how to estimate player positions and movement from video, account for occlusion and camera motion, and study interactions and future motion.
 
-- Data Science & Statistical Analysis
-- Sports Analytics & Player Performance
-- Machine Learning & Predictive Modeling
-- Data Visualization
+I am particularly interested in the connection between visual representations, learned dynamics, and action-conditioned prediction. These are proposed research directions; I have not yet trained a player-tracking or world model.
 
-## 🛠 Tools
+## Project experience and use of GPT
 
-**Programming:** Python  
-**Data analysis:** Pandas, NumPy  
-**Visualization:** Matplotlib, Plotly, Streamlit  
-**Workflow:** Jupyter Notebook, VS Code, GitHub
+The projects below were developed with substantial GPT assistance for code generation, revision, and debugging. I am still developing the ability to read, modify, and debug Python independently. The repositories show the scope and outputs of my project work, with limitations and evaluation status stated explicitly.
 
-## 📊 Featured Projects
+## Selected projects
 
-### ⚽ [K League 1 — High Turnover & Attacking Transition Analysis](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis)
+### [K League 1 High Turnover and Attacking Transition Analysis](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis)
 
-An event-based analysis of attacking transitions following high turnovers in the 2024 K League 1 season.
+**Individual project · 2 months · GPT-assisted analysis**
 
-- **Independent project, 2 months:** analyzed event data covering **198 matches** and **12 teams**
-- Developed logic to distinguish event-team changes from meaningful possession changes
-- Examined shots and goals linked to high turnovers within a **15-second window**
-- Identified **5,303 high-turnover sequences**, with **1,204 (22.7%)** linked to a shot within 15 seconds under the final rules
-- Reported descriptive associations, with limitations of event-based possession inference
+- An event-based study of attacking transitions using 2024 K League 1 data from **198 matches and 12 teams**.
+- The analysis distinguishes changes in the event-performing team from inferred changes in possession and tracks attacks for up to **15 seconds**.
+- Under the final rules, the saved analysis identifies **5,303 high-turnover sequences**, with **1,204 (22.7%)** linked to a shot.
+- These are descriptive sequence-level results. The report explains limitations of possession inference, incomplete analyses, and metrics excluded from conclusions.
 
-**Tools:** Python, Pandas, Jupyter Notebook
+This project provides the motivation for my interest in the movement and interactions that event records do not continuously capture.
 
-**Final report:** [Read the illustrated PDF report](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis/blob/main/reports/K_League_High_Turnover_Report.pdf)
+[Code and methods](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis) · [Illustrated PDF report](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis/blob/main/reports/K_League_High_Turnover_Report.pdf)
 
-### 🔎 [AI Scouting Platform](https://github.com/sinjunha513-cloud/AI-Scouting-Platform)
+### [AI Scouting Platform](https://github.com/sinjunha513-cloud/AI-Scouting-Platform)
 
-An interactive Streamlit app for football player scouting, comparison, and statistical exploration.
+**Three-person team · 3 months · Platform and ML logic with GPT assistance**
 
-**My contribution:** platform development and scoring, clustering, and recommendation implementation in a **three-person team over 3 months**.
+My role covered platform development and scoring, clustering, and recommendation logic with GPT assistance.
 
-- Season- and position-specific Z-score evaluation with configurable metric weights
-- K-Means player clustering and cosine-similarity-based alternative player recommendations
-- Radar charts, player comparisons, and multi-season performance trends
-- Per-90 count handling, missing-data coverage indicators, and reproducible fictional demo data
-- Relative statistical comparisons; real-world scouting accuracy has not been evaluated
+- Streamlit interface for player comparison and statistical exploration.
+- Season- and position-specific standardization, configurable scoring, per-90 count handling, and missing-data coverage indicators.
+- K-Means grouping and cosine-similarity-based recommendations.
+- Fictional sample data for exploring the app; real-world scouting accuracy has not been evaluated.
 
-**Tools:** Python, Streamlit, Pandas, NumPy, scikit-learn, Plotly
+[Code and methodology](https://github.com/sinjunha513-cloud/AI-Scouting-Platform) · [Live demo](https://junha-ai-scouting.streamlit.app/)
 
-**Live app:** [Try the AI Scouting Platform](https://junha-ai-scouting.streamlit.app/)  
-**Source code:** [GitHub repository](https://github.com/sinjunha513-cloud/AI-Scouting-Platform)
+### [ONEPOINT Sports Coaching Platform](https://github.com/sinjunha513-cloud/ONEPOINT)
 
-### 🎯 ONEPOINT — Sports Lesson Platform
+**Individual project · 6 months · GPT-assisted application development**
 
-A Flutter and Firebase-based platform designed to connect sports coaches and students for one-on-one lessons.
+A Flutter and Firebase application under development, with workflows for coach discovery, lesson availability and applications, role-based access, and messaging.
 
-**My contribution:** independent application and backend development over **6 months**.
+This project gave me practical exposure to application development and client–backend integration using AI coding assistance. A web demo and walkthrough show the current interface; production readiness has not been established.
 
-- Coach profiles and lesson registration
-- Lesson applications and scheduling workflows
-- User roles for students, coaches, and administrators
-- In-app messaging and platform management features
+[Code and project scope](https://github.com/sinjunha513-cloud/ONEPOINT) · [Web demo](https://onlyonepoint-lesson.web.app) · [Walkthrough video](https://github.com/sinjunha513-cloud/ONEPOINT/blob/main/demo/onepoint-demo.mp4)
 
-**Tools:** Flutter, Dart, Firebase (Authentication, Firestore, Storage, Messaging)
+## Background
 
-**Live demo:** [Open ONEPOINT](https://onlyonepoint-lesson.web.app)  
-**Walkthrough:** [Watch the demo video](https://github.com/sinjunha513-cloud/ONEPOINT/blob/main/demo/onepoint-demo.mp4)  
-**Source code:** [GitHub repository](https://github.com/sinjunha513-cloud/ONEPOINT)
+- Sports Health and Rehabilitation, Kookmin University — transfer admission in March 2025; expected graduation in February 2027.
+- One year of sports analytics research activities in **KODE**, Kookmin University's sports analytics club.
+- Coursework includes biomechanics, sports statistics, AI sports programming, sports data analysis and applications, and measurement and evaluation.
 
-**Status:** In development
+## Tools encountered through project work
 
-## 📚 Currently Learning
+Python, Pandas, NumPy, scikit-learn, Matplotlib, Plotly, Streamlit, Jupyter Notebook, Flutter/Dart, Firebase, and GitHub. This list describes project exposure, not equal proficiency in every tool.
 
-- Probability, Statistics & Statistical Inference
-- Mathematics for Data Science
-- Algorithms & Machine Learning
-- Reproducible Data Analysis
-
-## 🎯 Goal
-
-To combine domain knowledge with rigorous quantitative methods and build practical, reproducible data science projects.
-
----
-
-*Learning through data, one project at a time.*
+My next learning priorities are independent Python programming, code and result validation, and the foundations needed for PyTorch-based training and evaluation.
