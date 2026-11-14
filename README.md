@@ -20,10 +20,10 @@ The projects below were developed with substantial GPT assistance for code gener
 
 **Individual project · 2 months · GPT-assisted analysis**
 
-- An event-based study of attacking transitions using 2024 K League 1 data from **198 matches and 12 teams**.
+- An event-based study of attacking transitions using 2024 K League 1 data from **198 matches and 12 teams (rounds 1–33)**.
 - The analysis distinguishes changes in the event-performing team from inferred changes in possession and tracks attacks for up to **15 seconds**.
-- Under the final rules, the saved analysis identifies **5,303 high-turnover sequences**, with **1,204 (22.7%)** linked to a shot.
-- These are descriptive sequence-level results. The report explains limitations of possession inference, incomplete analyses, and metrics excluded from conclusions.
+- The revalidated analysis identifies **5,290 high-turnover sequences**, with **1,211 (22.9%)** linked to a first shot within 15 seconds.
+- Revalidation includes duplicate checks, final-score reconciliation for all 198 matches, sensitivity analyses, and match-clustered association estimates. The report explains remaining limits of event-derived possession and timestamp ambiguity; these results do not establish causal effects.
 
 This project provides the motivation for my interest in the movement and interactions that event records do not continuously capture.
 
