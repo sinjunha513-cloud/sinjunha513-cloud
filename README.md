@@ -31,7 +31,7 @@ An event-based analysis of attacking transitions following high turnovers in the
 - Examined shots and goals linked to high turnovers within a **15-second window**
 - Documented how methodological decisions affect the interpretation of results
 
-**Tools:** Python, Pandas, Jupyter Notebook
+**Tools:** Python, Pandas, Jupyter Notebook\n\n**Final report:** [Download the illustrated K League analysis report](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis/blob/main/reports/K%EB%A6%AC%EA%B7%B81_%EC%A0%84%EB%B0%A9%ED%83%88%EC%B7%A8_%EB%B6%84%EC%84%9D_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%99%84%EC%84%B1%EB%B3%B8.docx)
 
 ### 🔎 [AI Scouting Platform](https://github.com/sinjunha513-cloud/AI-Scouting-Platform)
 
@@ -58,7 +58,7 @@ A Flutter and Firebase-based platform designed to connect sports coaches and stu
 
 **Tools:** Flutter, Dart, Firebase (Authentication, Firestore, Storage, Messaging)
 
-**Status:** In development
+**Live demo:** [Open ONEPOINT](https://onlyonepoint-lesson.web.app)  \n**Walkthrough:** [Watch the demo video](https://github.com/sinjunha513-cloud/ONEPOINT/blob/main/demo/onepoint-demo.mp4)  \n**Source code:** [GitHub repository](https://github.com/sinjunha513-cloud/ONEPOINT)\n\n**Status:** In development
 
 ## 📚 Currently Learning
 
