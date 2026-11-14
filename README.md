@@ -4,6 +4,8 @@
 
 I study Sports Health and Rehabilitation and use sports projects to explore data analysis and application development. My long-term interest is understanding player movement from football video and learning how game situations evolve.
 
+**[Start here: selected projects and reviewed versions](PORTFOLIO.md)**
+
 ## Research interests
 
 Access to tracking data for the leagues and matches I want to study has been a practical constraint. I would like to learn how to estimate player positions and movement from video, account for occlusion and camera motion, and study interactions and future motion.
