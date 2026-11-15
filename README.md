@@ -1,6 +1,6 @@
 # Junha Shin
 
-초등학교 6학년부터 대학교 1학년까지 엘리트 축구선수로 활동했습니다. 축구선수로 진학한 대학교에 입학한 직후 은퇴한 뒤, 2년간 학업에 매진하여 국민대학교에 편입했습니다.
+I played elite-level football from sixth grade through the beginning of my first year at university. Shortly after enrolling at my first university as a football player, I retired from competitive football and shifted my focus to academics. After two years of dedicated study, I transferred to Kookmin University in March 2025, where I now study Sports Health and Rehabilitation.
 
 **Undergraduate at Kookmin University | Sports analytics and movement understanding**
 
