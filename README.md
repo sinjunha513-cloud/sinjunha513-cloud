@@ -1,5 +1,7 @@
 # Junha Shin
 
+초등학교 6학년부터 대학교 1학년까지 엘리트 축구선수로 활동했습니다. 축구선수로 진학한 대학교에 입학한 직후 은퇴한 뒤, 2년간 학업에 매진하여 국민대학교에 편입했습니다.
+
 **Undergraduate at Kookmin University | Sports analytics and movement understanding**
 
 I study Sports Health and Rehabilitation and use sports projects to explore data analysis and application development. My long-term interest is understanding player movement from football video and learning how game situations evolve.
