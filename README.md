@@ -4,7 +4,7 @@
 
 I study Sports Health and Rehabilitation and use sports projects to explore data analysis and application development. My long-term interest is understanding player movement from football video and learning how game situations evolve.
 
-**[Start here: selected projects and reviewed versions](PORTFOLIO.md)**
+**[Start here: selected projects and outputs](PORTFOLIO.md)**
 
 ## Research interests
 
@@ -24,8 +24,8 @@ The projects below were developed with substantial GPT assistance for code gener
 
 - An event-based study of attacking transitions using 2024 K League 1 data from **198 matches and 12 teams (rounds 1–33)**.
 - The analysis distinguishes changes in the event-performing team from inferred changes in possession and tracks attacks for up to **15 seconds**.
-- The revalidated analysis identifies **5,290 high-turnover sequences**, with **1,211 (22.9%)** linked to a first shot within 15 seconds.
-- Revalidation includes duplicate checks, final-score reconciliation for all 198 matches, sensitivity analyses, and match-clustered association estimates. The report explains remaining limits of event-derived possession and timestamp ambiguity; these results do not establish causal effects.
+- The analysis identifies **5,290 high-turnover sequences**, with **1,211 (22.9%)** linked to a first shot within 15 seconds.
+- Outputs include an illustrated report, an executed notebook, aggregate tables, sensitivity analyses and match-clustered association estimates. Event-derived possession and timestamp ambiguity limit interpretation; the findings do not establish causal effects.
 
 This project provides the motivation for my interest in the movement and interactions that event records do not continuously capture.
 

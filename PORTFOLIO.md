@@ -1,26 +1,39 @@
-# Selected project portfolio
+# Selected project outputs
 
-Junha Shin · Kookmin University · Research internship portfolio  
-Submission snapshot reviewed on 14 November 2026.
+Junha Shin · Kookmin University
 
-These projects were developed with substantial GPT assistance. Independent Python implementation and debugging skills are still developing. “Submission snapshot” identifies the reviewed portfolio version; it does not mean a production release or a completed research publication.
+## K League 1 High Turnover Analysis
 
-## Suggested reading order
+**Individual project · 2 months · GPT-assisted analysis**
 
-| Project | Start here | Scope and evaluation |
-| --- | --- | --- |
-| K League high turnovers | [Illustrated report](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis/blob/dafdba31b7a0ae9d1338ccdd4dc8094874509fd2/reports/K_League_High_Turnover_Report.pdf) · [Notebook](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis/blob/dafdba31b7a0ae9d1338ccdd4dc8094874509fd2/전방탈취_최종본.ipynb) | Individual, 2 months. 198 matches, rounds 1–33; 5,290 turnovers and 1,211 first-shot links. Revalidation, sensitivity checks and match-clustered inference. Event-derived possession; no video ground truth or causal claim. |
-| AI Scouting Platform | [Methods and source](https://github.com/sinjunha513-cloud/AI-Scouting-Platform/tree/7fd39731b62721c777f746de925f38dfc0c25903) · [Demo](https://junha-ai-scouting.streamlit.app/) | Three-person team, 3 months. My role: platform development and ML logic. Standardization, per-90 counts, missing-data coverage, K-Means and cosine similarity. Fictional demonstration data; real-world scouting accuracy untested. |
-| ONEPOINT | [Source and screenshots](https://github.com/sinjunha513-cloud/ONEPOINT/tree/7d6c0dec8be5dcddfd0b873773b425293fc6a813) · [Walkthrough](https://github.com/sinjunha513-cloud/ONEPOINT/blob/7d6c0dec8be5dcddfd0b873773b425293fc6a813/demo/onepoint-demo.mp4) | Individual, 6 months. Flutter/Firebase coaching app in development. Demonstrates application workflows; live payment and production readiness are not established. |
+An event-based analysis of 198 matches from rounds 1–33 of the 2024 season. The dataset contains 5,290 high-turnover sequences, with 1,211 first-shot links within 15 seconds (22.89%) and 94 goals from those first shots.
 
-## Verification status
+Outputs: illustrated report, executed Python notebook, aggregate tables, match-bootstrap confidence intervals, descriptive logistic model and sensitivity analyses.
 
-- K League: raw-data rerun reproduced the earlier baseline; revised script and executed notebook agree. Final scores reconcile for 198/198 matches. Ten boundary-case tests pass. The report explains simultaneous timestamps and remaining uncertainty.
-- Scouting: the current repository's suite ran 12 tests: 11 passed and one local-workbook test was skipped because no workbook was supplied. These checks validate implementation behavior, not recruitment success.
-- ONEPOINT: source, README, walkthrough and screenshot paths were inspected. Flutter execution and end-to-end production validation were not performed in this final review.
+[Report](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis/blob/main/reports/K_League_High_Turnover_Report.pdf) · [Code and methods](https://github.com/sinjunha513-cloud/K-league_high_turnover_analysis)
 
-## Research motivation
+Possession is inferred from event records. Timestamp ambiguity and unobserved match context limit interpretation; the results describe associations.
 
-Event records do not continuously capture player positions and interactions. My proposed next step is learning to evaluate video-based tracking, quantify tracking uncertainty, and study short-horizon motion prediction. Visual world models and action-conditioned simulation are longer-term interests, not completed work.
+## AI Scouting Platform
 
-Raw match data and academic transcripts are not published here. The CV and research statement are provided directly with the application email.
+**Three-person team · 3 months · Platform development and ML logic**
+
+A Streamlit application for comparing football players using season- and position-specific statistics. Outputs include configurable scoring, per-90 metrics, coverage indicators, radar charts, multi-season comparisons and similar-player retrieval using K-Means and cosine similarity.
+
+[Application and source](https://github.com/sinjunha513-cloud/AI-Scouting-Platform) · [Live demo](https://junha-ai-scouting.streamlit.app/)
+
+The demo includes fictional sample data. Statistical similarity and rule-based playing-style labels are not validated predictions of recruitment success.
+
+## ONEPOINT Sports Coaching Platform
+
+**Individual project · 6 months · Application development**
+
+A Flutter/Firebase sports coaching application with interfaces for coach discovery, lesson availability and applications, messaging, short-form videos and administration. Outputs include client/backend code, a web demonstration, screenshots and a walkthrough video.
+
+[Code and screenshots](https://github.com/sinjunha513-cloud/ONEPOINT) · [Web demo](https://onlyonepoint-lesson.web.app) · [Walkthrough](https://github.com/sinjunha513-cloud/ONEPOINT/blob/main/demo/onepoint-demo.mp4)
+
+The application is under development. Live payments and production readiness are not established.
+
+## Contribution and research direction
+
+GPT was used extensively for coding, debugging and analysis support. I am developing independent Python implementation skills. My research interests include video-based player tracking, uncertainty in inferred movement and short-horizon interaction prediction. Tracking and world models are proposed directions, not completed projects.
